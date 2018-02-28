@@ -1,6 +1,6 @@
 # windows-ubuntu-dual-system-setup
-# I took a whole day working on this and getting frustated on reading all the forum discussion, get wrong and try gain.
-# Broke my windows system by this line "bcdedit /set {bootmgr} path \EFI\ubuntu\shim*.efi", telephoned and online talking with microsoft representitives who are pretending to be technicians. Telehphoned local technician who is asking $180 for windows reinstall.(Crazy)
+## I took a whole day working on this and getting frustated on reading all the forum discussion, get wrong and try gain.
+## Broke my windows system by this line "bcdedit /set {bootmgr} path \EFI\ubuntu\shim*.efi", telephoned and online talking with microsoft representitives who are pretending to be technicians. Telehphoned local technician who is asking $180 for windows reinstall.(Crazy)
 
 # the magic line in windows. "bcdedit /set {bootmgr} path \EFI\ubuntu\grubx64.efi"
 
